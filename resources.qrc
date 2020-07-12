@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/floor.png</file>
+        <file>resources/brick.png</file>
+        <file>resources/creeper.png</file>
+        <file>resources/push.mp3</file>
+        <file>resources/pink_panther_theme.mp3</file>
+        <file>resources/explosion.mp3</file>
+        <file>resources/tnt_new.jpg</file>
+        <file>resources/cheering.mp3</file>
+    </qresource>
+</RCC>
